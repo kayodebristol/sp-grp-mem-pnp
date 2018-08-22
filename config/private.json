@@ -1,0 +1,7 @@
+{
+    "siteUrl": "http://spdev",
+    "strategy": "OnpremiseUserCredentials",
+    "username": "administrator",
+    "domain": "arylether",
+    "password": "63c330335b661b4d68a58409e0468704827c4320c8be847bd97f187ecf2f8dfef3c55dd957eb2b0ea43c04297540f43fYqe7cJdBB9HpiH8A+WVs3g=="
+  }

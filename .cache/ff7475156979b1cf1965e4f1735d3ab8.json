@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./index.js","dynamic":true}],"generated":{"html":"<html> <body> <script>var spNotificationMessage={settings:{baseUrl:\"http://spdev/sites/troubleticket\",list:\"System Notification\"}};</script> <script src=\"/44a628f7c9e3fff39b44d1a2ce0137cd.js\"></script> </body> </html>"},"hash":"9e492fab30bd867f5b027018149eb095","cacheData":{}}
