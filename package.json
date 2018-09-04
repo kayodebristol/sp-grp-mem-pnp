@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "homepage": "/projects/sp-grp-mem-pnp",
   "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayodebristol/sp-grp-mem-pnp"
+  },
   "dependencies": {
     "@pnp/common": "^1.1.4",
     "@pnp/graph": "^1.1.4",
