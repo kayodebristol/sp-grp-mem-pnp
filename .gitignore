@@ -40,4 +40,10 @@ dist/
 lib/
 public/app.*
 package-lock.json
+.env
+.editorconfig
+yarn.lock
+.prettierrc
+.vscode
+.cache
 config/
