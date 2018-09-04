@@ -4,12 +4,12 @@
   "homepage": "/projects/sp-grp-mem-pnp",
   "private": true,
   "dependencies": {
-    "@pnp/common": "^1.0.4",
-    "@pnp/graph": "^1.0.4",
-    "@pnp/logging": "^1.0.4",
-    "@pnp/odata": "^1.0.4",
+    "@pnp/common": "^1.1.4",
+    "@pnp/graph": "^1.1.4",
+    "@pnp/logging": "^1.1.4",
+    "@pnp/odata": "^1.1.4",
     "@pnp/pnpjs": "^1.1.4",
-    "@pnp/sp": "^1.0.4",
+    "@pnp/sp": "^1.1.4",
     "babel-polyfill": "^6.26.0",
     "babel-runtime": "^6.26.0",
     "es6-promise": "^4.2.4",
@@ -28,12 +28,12 @@
   },
   "devDependencies": {
     "@types/sharepoint": "^2016.1.1",
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "eslint-config-standard": "^11.0.0",
     "sp-build-tasks": "^3.1.5",
-    "sp-rest-proxy": "^2.5.8",
+    "sp-rest-proxy": "^2.7.4",
     "tslint-config-standard": "^7.1.0"
   },
   "proxy": "http://localhost:8080"
