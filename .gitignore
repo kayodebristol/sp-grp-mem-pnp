@@ -39,4 +39,5 @@ jspm_packages
 dist/
 lib/
 public/app.*
-
+package-lock.json
+config/

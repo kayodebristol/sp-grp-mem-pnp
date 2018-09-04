@@ -1,6 +1,0 @@
-{
-    "sourceDirectory": "src",
-    "sharePointSiteUrl": "http://spdev",
-    "publishingScope": "Major",
-    "authenticationType": "NTLM"
-}
